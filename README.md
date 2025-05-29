@@ -1,1 +1,2 @@
-# nexus-quantum-5.0.-v2.3
+# NEXUS QUANTUM 5.0
+Sistema avanzado de análisis futbolístico cuantitativo.
